@@ -179,7 +179,7 @@ h1 {
 
 // Animate heading.
 var textWrapper = document.querySelector( 'h1 .letters' ); // Wrap every letter in a span
-textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+textWrapper.innerHTML = textWrapper.textContent.replace( /\S/g, '<span class="letter">$&</span>' );
 anime.timeline( { loop: false } ).add( {
 	targets: 'h1 .letter',
 	scale: [ 0, 1 ],
@@ -190,7 +190,7 @@ anime.timeline( { loop: false } ).add( {
 
 // Animate text.
 var textWrapper = document.querySelector( '.text .letters' ); // Wrap every letter in a span
-textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+textWrapper.innerHTML = textWrapper.textContent.replace( /\S/g, '<span class="letter">$&</span>' );
 anime.timeline( { loop: false } ).add( {
 	targets: '.text .letter',
 	scale: [ 0, 1 ],
@@ -201,12 +201,12 @@ anime.timeline( { loop: false } ).add( {
 
 // Fade in Texas.
 setTimeout( function() {
-	document.getElementById( 'texas' ).className += " show-texas";
+	document.getElementById( 'texas' ).className += ' show-texas';
 }, 625 );
 
 // Fade in logos.
 setTimeout( function() {
-	document.getElementById( 'logos' ).className += " show-logos";
+	document.getElementById( 'logos' ).className += ' show-logos';
 }, 1000 );
 
 </script>
