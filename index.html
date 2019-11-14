@@ -180,23 +180,23 @@ h1 {
 // Animate heading.
 var textWrapper = document.querySelector( 'h1 .letters' ); // Wrap every letter in a span
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
-anime.timeline( {loop: false } ).add( {
+anime.timeline( { loop: false } ).add( {
 	targets: 'h1 .letter',
-	scale: [0, 1],
+	scale: [ 0, 1 ],
 	duration: 1500,
 	elasticity: 600,
-	delay: (el, i) => 120 * (i+1)
+	delay: ( el, i ) => 120 * ( i + 1 )
 } );
 
 // Animate text.
 var textWrapper = document.querySelector( '.text .letters' ); // Wrap every letter in a span
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
-anime.timeline( {loop: false } ).add( {
+anime.timeline( { loop: false } ).add( {
 	targets: '.text .letter',
-	scale: [0, 1],
+	scale: [ 0, 1 ],
 	duration: 1500,
 	elasticity: 600,
-	delay: (el, i) => 18 * (i+1)
+	delay: ( el, i ) => 18 * ( i + 1 )
 } );
 
 // Fade in Texas.
