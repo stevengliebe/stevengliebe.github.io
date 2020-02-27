@@ -1,1 +1,2 @@
-.DS_Store
+# Ignore repo-specific files
+# Don't duplicate system-specific entries in ~/.gitignore_global
