@@ -1,4 +1,0 @@
-# Terminal commands (CMD-SHFT-T) for this project (see ~/.oh-my-zsh/custom/aliases.zsh)
-
-sg					Change into project's folder
-sg-deploy			Git push changes to production on GitHub Pages

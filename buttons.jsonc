@@ -1,0 +1,10 @@
+# vscode-buttons config
+{
+    "buttons": [
+        {
+            "name": "Deploy",
+            "script": "git push origin master",
+            "description": "push to GitHub Pages"
+        },
+    ]
+}
