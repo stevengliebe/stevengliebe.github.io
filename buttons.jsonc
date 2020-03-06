@@ -5,6 +5,11 @@
             "name": "Deploy",
             "script": "git push origin master",
             "description": "push to GitHub Pages"
+        },
+        {
+            "name": "Site Folder",
+            "script": "open .;exit",
+            "description": "Project Repo"
         }
     ]
 }
