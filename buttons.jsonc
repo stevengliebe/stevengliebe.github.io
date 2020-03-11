@@ -8,8 +8,13 @@
         },
         {
             "name": "Site Folder",
-            "script": "open .;exit",
+            "script": "open . && exit",
             "description": "Project Repo"
+        },
+        {
+            "name": "GitHub",
+            "script": "open https://github.com/stevengliebe/stevengliebe.github.io && exit",
+            "description": "stevengliebe.github.io"
         }
     ]
 }
