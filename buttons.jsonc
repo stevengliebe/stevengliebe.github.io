@@ -15,6 +15,16 @@
             "name": "GitHub",
             "script": "open https://github.com/stevengliebe/stevengliebe.github.io && exit",
             "description": "stevengliebe.github.io"
+        },
+        {
+            "name": "stevengliebe.local",
+            "script": "open https://stevengliebe.local && exit",
+            "description": "stevengliebe.github.io"
+        },
+        {
+            "name": "stevengliebe.com",
+            "script": "open https://stevengliebe.com && exit",
+            "description": "stevengliebe.com"
         }
     ]
 }
