@@ -1,3 +1,5 @@
+**No longer used on stevengliebe.com**
+
 # stevengliebe.com
 A very simple static website for https://stevengliebe.com hosted by [GitHub Pages](https://pages.github.com/). Just push it up. Free and with SSL, too. How cool is that? Thanks GitHub.
 
