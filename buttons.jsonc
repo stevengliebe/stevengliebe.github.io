@@ -3,8 +3,8 @@
     "buttons": [
         {
             "name": "Commit & Deploy",
-            "script": "git co -am 'Update static files'; git push origin main",
-            "description": "commit, push to GitHub Pages"
+            "script": "git add .;git co -am 'Update static files'; git push origin main",
+            "description": "Update live after generating"
         },
         {
             "name": "Deploy",

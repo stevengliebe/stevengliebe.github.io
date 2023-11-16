@@ -1,0 +1,274 @@
+/* ---------------------------------------------------------------------------------------------
+
+	Theme Name: Poe
+    Text Domain: poe
+	Version: 0.4.1
+	Description: Poe is a clean, flexible and fast block theme built with portfolios and blogs in mind. Its default look is a stylish white on black color scheme with yellow accents and clean sans-serif typography, but Poe is built from the ground up for flexibility. It includes ten different theme styles to choose from, and over 30 different block patterns that you can use to quickly create unique page layouts.
+	Tags: blog, portfolio, grid-layout, one-column, two-columns, three-columns, four-columns, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks, full-site-editing
+	Author: Anders Norén
+	Author URI: https://andersnoren.se
+	Theme URI: https://andersnoren.se/teman/poe-wordpress-theme/
+	License: GNU General Public License version 2.0
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Requires PHP: 5.6
+	Tested up to: 6.3
+
+	All files, unless otherwise stated, are released under the GNU General Public License
+	version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+/* --------------------------------------------------------------------------------------------- */
+
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Input styles */
+
+input, textarea, select, button {
+	background-color: inherit;
+	border-radius: 0;
+	font-family: inherit;
+	font-size: inherit;
+	letter-spacing: inherit;
+	margin: 0;
+}
+
+input, textarea, select {
+	background-color: var( --wp--preset--color--background );
+	border: .1rem solid var( --wp--preset--color--tertiary );
+	box-sizing: border-box;
+	color: var( --wp--preset--color--foreground );
+	max-width: 100%;
+	padding: .5em;
+}
+
+label {
+	font-size: var( --wp--preset--font-size--small );
+	font-weight: 500;
+}
+
+/* Editor Post Title */
+
+.editor-post-title__input { 
+	text-align: center;
+}
+
+/* Background Padding */
+
+p.has-background, 
+h1.has-background, 
+h2.has-background, 
+h3.has-background, 
+h4.has-background, 
+h5.has-background, 
+h6.has-background, 
+:where(.wp-block-group.has-background) { 
+	padding: 1.5em; 
+}
+
+
+/* ------------------------------------------- */
+/*	Typography
+/* ------------------------------------------- */
+
+
+.has-huge-font-size,
+.has-heading-1-font-size,
+.has-heading-2-font-size,
+.has-heading-3-font-size,
+.has-heading-4-font-size,
+.has-heading-5-font-size { 
+	letter-spacing: var( --wp--custom--typography--letter-spacing--heading );
+	line-height: var( --wp--custom--typography--line-height--headings--large ); 
+}
+
+.has-gigantic-font-size {
+	letter-spacing: var( --wp--custom--typography--letter-spacing--gigantic );
+	line-height: var( --wp--custom--typography--line-height--headings--gigantic );
+}
+
+.has-medium-font-size {
+	line-height: var( --wp--custom--typography--line-height--body );
+}
+
+
+/* ------------------------------------------- */
+/* Blocks
+/* ------------------------------------------- */
+
+
+/* Block: Avatar ----------------------------- */
+
+.wp-block-avatar img {
+	display: block;
+}
+
+/* Block: Button ----------------------------- */
+
+/* STYLE: ARROW */
+
+.is-style-poe-arrow > .wp-block-button__link,
+.wp-block-button__link.is-style-poe-arrow {
+	background-color: transparent;
+	color: var( --wp--preset--color--primary );
+	font-weight: inherit;
+	padding: 0;
+}
+
+.is-style-poe-arrow > .wp-block-button__link:after,
+.wp-block-button__link.is-style-poe-arrow:after {
+	content: "⟶";
+	display: inline-block;
+	font-weight: 300;
+	margin-left: 0.5em;
+	text-decoration: none;
+}
+
+.is-style-poe-arrow > .wp-block-button__link:hover, .wp-block-button__link.is-style-poe-arrow:hover,
+.is-style-poe-arrow > .wp-block-button__link:focus, .wp-block-button__link.is-style-poe-arrow:focus {
+	text-decoration: underline;
+}
+
+/* Block: File ------------------------------- */
+
+.wp-block-file {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+
+:root .wp-block-file__button:not(:only-child) { 
+	margin-left: var( --wp--custom--spacing--baseline ); 
+}
+
+/* Block: Heading ---------------------------- */
+
+.wp-block-post-content h1:not([style*="margin-top"]):not(:first-child),
+.wp-block-post-content h2:not([style*="margin-top"]):not(:first-child),
+.wp-block-post-content h3:not([style*="margin-top"]):not(:first-child),
+.wp-block-post-content h4:not([style*="margin-top"]):not(:first-child),
+.wp-block-post-content h5:not([style*="margin-top"]):not(:first-child),
+.wp-block-post-content h6:not([style*="margin-top"]):not(:first-child) {
+	margin-top: 1em !important;
+}
+
+.wp-block-post-content h1:not([style*="margin-bottom"]):not(:last-child),
+.wp-block-post-content h2:not([style*="margin-bottom"]):not(:last-child),
+.wp-block-post-content h3:not([style*="margin-bottom"]):not(:last-child),
+.wp-block-post-content h4:not([style*="margin-bottom"]):not(:last-child),
+.wp-block-post-content h5:not([style*="margin-bottom"]):not(:last-child),
+.wp-block-post-content h6:not([style*="margin-bottom"]):not(:last-child) {
+	margin-bottom: .75em !important;
+}
+
+/* Block: Navigation ------------------------- */
+
+.wp-block-navigation__responsive-container.is-menu-open { 
+	padding: var(--wp--custom--spacing--outer); 
+}
+
+.wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation__submenu-container {
+	font-size: var( --wp--preset--font-size--small );
+}
+
+/* Block: Paragraph -------------------------- */
+
+.has-drop-cap:not(:focus):first-letter {
+	border: .2rem solid currentColor;
+    font-size: 2.725em;
+    font-weight: var( --wp--custom--typography--font-weight--bold );
+	margin: .09em 1rem .5rem 0;
+	min-width: .6875em;
+	padding: 0.3em;
+	text-align: center;
+}
+
+/* Block: Post Comments Form ----------------- */
+
+ol.wp-block-comment-template {
+	margin: 0;
+}
+
+.wp-block-post-comments-form input:not([type=submit]), 
+.wp-block-post-comments-form textarea {
+	border-color: var( --wp--preset--color--tertiary );
+}
+
+.required-field-message,
+.comment-notes {
+	display: none;
+}
+
+.logged-in-as {
+	color: var( --wp--preset--color--secondary );
+}
+
+.comment-reply-title {
+	margin: 0;
+}
+
+/* Block: Post Navigation -------------------- */
+
+.post-navigation-link-previous a:before { content: "← "; }
+.post-navigation-link-next a:after { content: " →"; }
+
+/* Block: Pull Quote ------------------------- */
+
+:root .wp-block-pullquote blockquote,
+:root .wp-block-pullquote blockquote p {
+	line-height: inherit;
+}
+
+:root .wp-block-pullquote blockquote p {
+	hanging-punctuation: first;
+	font-size: inherit;
+}
+
+:root .wp-block-pullquote.has-text-align-left, 
+:root .wp-block-pullquote.has-text-align-right {
+	max-width: 100%;
+}
+
+/* Block: Query Pagination ------------------- */
+
+.wp-block-query-pagination > .wp-block-query-pagination-next, 
+.wp-block-query-pagination > .wp-block-query-pagination-numbers, 
+.wp-block-query-pagination > .wp-block-query-pagination-previous {
+	margin-bottom: 0;
+}
+
+.wp-block-query-pagination-next:only-child {
+	margin-left: auto;
+}
+
+/* Block: Quote ------------------------------ */
+
+blockquote p:first-child { margin-top: 0; }
+blockquote p:last-child { margin-bottom: 0; }
+
+/* Block: Search Form ------------------------ */
+
+.wp-block-search .wp-block-search__label {
+	font-weight: inherit;
+}
+
+.wp-block-search__input,
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper {
+	border-color: var(--wp--preset--color--secondary) !important;
+}
+
+.wp-block-search__input {
+	margin: 0;
+	padding: .75em;
+}
+
+.wp-block-search__button-inside .wp-block-search__inside-wrapper,
+.wp-block-search__button-inside .wp-block-search__input {
+	margin: 0;
+	padding: .375em .5em !important;
+}
+
+.wp-block-search__button { 
+	margin: 0 0 0 .75em; 
+}
