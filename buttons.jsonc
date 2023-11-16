@@ -2,6 +2,11 @@
 {
     "buttons": [
         {
+            "name": "Commit & Deploy",
+            "script": "git co -am 'Update static files'; git push origin main",
+            "description": "commit, push to GitHub Pages"
+        },
+        {
             "name": "Deploy",
             "script": "git push origin main",
             "description": "push to GitHub Pages"
