@@ -12,6 +12,11 @@
             "description": "push to GitHub Pages"
         },
         {
+            "name": "View Local Static",
+            "script": "open ./index.html",
+            "description": "Update live after generating"
+        },
+        {
             "name": "Site Folder",
             "script": "open . && exit",
             "description": "Project Repo"
