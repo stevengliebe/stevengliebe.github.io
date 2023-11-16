@@ -9,4 +9,4 @@ You can do this too. Here's the idea:
 3. Generate files then push up the local repo to your remote repo
 4. Setup GitHub Pages to use your repo, and you'll probably want to use your domain too
 
-This is great for small personal sites but note there is a 1 GB storage limit with GitHub Pages and you may also want to check out Simply Static Pro which makes it easier to deploy to GitHub or other services that offer more storage (no shame in paying for something!).
+This is great for small personal sites but note there is a 1 GB storage limit with GitHub Pages and you may also want to check out [Simply Static Pro](https://simplystatic.com) which makes it easier to deploy to GitHub or other services that offer more storage (no shame in paying for something, you know).
