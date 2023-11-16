@@ -1,6 +1,6 @@
 # stevengliebe.com
 
-A static WordPress site generated with the [Simply Static](https://wordpress.org/plugins/simply-static/) plugin and hosted by [GitHub Pages](https://pages.github.com/). A totally free website with SSL. How cool is that? Thanks GitHub and Simply Static.
+A static WordPress site generated with the [Simply Static](https://wordpress.org/plugins/simply-static/) plugin and hosted by [GitHub Pages](https://pages.github.com/). A totally free website with custom domain and SSL. Okay, domains aren't free but, still, how cool is this? Thanks GitHub and Simply Static.
 
 You can do this too. Here's the idea:
 
