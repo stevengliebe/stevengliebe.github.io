@@ -3,7 +3,7 @@
     "buttons": [
         {
             "name": "Deploy",
-            "script": "git push origin master",
+            "script": "git push origin main",
             "description": "push to GitHub Pages"
         },
         {
