@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Still Life &#8211; Steven Gliebe</title>
+	<atom:link href="/category/still-life/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Nov 2023 21:15:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Pumpkin and Corn Cob</title>
+		<link>/2023/11/pumpkin-and-corn-cob/</link>
+					<comments>/2023/11/pumpkin-and-corn-cob/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:15:16 +0000</pubDate>
+				<category><![CDATA[Still Life]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=68</guid>
+
+					<description><![CDATA[Graphite, 2001]]></description>
+										<content:encoded><![CDATA[<p>Graphite...</p>
+<p><a href="/2023/11/pumpkin-and-corn-cob/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/pumpkin-and-corn-cob/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

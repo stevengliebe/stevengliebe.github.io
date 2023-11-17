@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 Nov 2023 23:38:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Nov 2023 21:23:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,59 +20,202 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
-		<title>Macaw</title>
-		<link>/2023/11/macaw/</link>
-					<comments>/2023/11/macaw/#respond</comments>
+		<title>Coastal Rocks</title>
+		<link>/2023/11/coastal-rocks/</link>
+					<comments>/2023/11/coastal-rocks/#respond</comments>
 		
-		<dc:creator><![CDATA[gliebe]]></dc:creator>
-		<pubDate>Thu, 16 Nov 2023 23:34:13 +0000</pubDate>
-				<category><![CDATA[Creatures]]></category>
-		<guid isPermaLink="false">/?p=24</guid>
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:23:02 +0000</pubDate>
+				<category><![CDATA[Digital]]></category>
+		<category><![CDATA[Landscapes]]></category>
+		<guid isPermaLink="false">/?p=82</guid>
 
-					<description><![CDATA[Watercolor, 2023]]></description>
-										<content:encoded><![CDATA[
-<p>Watercolor, 2023</p>
-]]></content:encoded>
+					<description><![CDATA[Phone art, 2013]]></description>
+										<content:encoded><![CDATA[<p>Phone art...</p>
+<p><a href="/2023/11/coastal-rocks/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
-					<wfw:commentRss>/2023/11/macaw/feed/</wfw:commentRss>
+					<wfw:commentRss>/2023/11/coastal-rocks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Red Mountain Sunset</title>
-		<link>/2023/11/red-mountain-sunset/</link>
-					<comments>/2023/11/red-mountain-sunset/#respond</comments>
+		<title>Autumn Leaf</title>
+		<link>/2023/11/autumn-leaf/</link>
+					<comments>/2023/11/autumn-leaf/#respond</comments>
 		
-		<dc:creator><![CDATA[gliebe]]></dc:creator>
-		<pubDate>Thu, 16 Nov 2023 23:29:24 +0000</pubDate>
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:21:32 +0000</pubDate>
+				<category><![CDATA[Digital]]></category>
+		<category><![CDATA[Other]]></category>
+		<guid isPermaLink="false">/?p=80</guid>
+
+					<description><![CDATA[Digital painting, 2000]]></description>
+										<content:encoded><![CDATA[<p>Digital painting...</p>
+<p><a href="/2023/11/autumn-leaf/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/autumn-leaf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mountain Cross</title>
+		<link>/2023/11/mountain-cross/</link>
+					<comments>/2023/11/mountain-cross/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:19:59 +0000</pubDate>
+				<category><![CDATA[Digital]]></category>
+		<category><![CDATA[Landscapes]]></category>
+		<guid isPermaLink="false">/?p=78</guid>
+
+					<description><![CDATA[Digital painting, 2004]]></description>
+										<content:encoded><![CDATA[<p>Digital painting...</p>
+<p><a href="/2023/11/mountain-cross/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/mountain-cross/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New York Perspective</title>
+		<link>/2023/11/new-york-perspective/</link>
+					<comments>/2023/11/new-york-perspective/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:19:29 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=76</guid>
+
+					<description><![CDATA[Acrylic, 2001]]></description>
+										<content:encoded><![CDATA[<p>Acrylic...</p>
+<p><a href="/2023/11/new-york-perspective/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/new-york-perspective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Psychadelic Fish</title>
+		<link>/2023/11/psychadelic-fish/</link>
+					<comments>/2023/11/psychadelic-fish/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:18:39 +0000</pubDate>
+				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Digital]]></category>
+		<guid isPermaLink="false">/?p=74</guid>
+
+					<description><![CDATA[Digitally styled, 2001]]></description>
+										<content:encoded><![CDATA[<p>Digitally styled...</p>
+<p><a href="/2023/11/psychadelic-fish/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/psychadelic-fish/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bubbling Fish</title>
+		<link>/2023/11/bubbling-fish/</link>
+					<comments>/2023/11/bubbling-fish/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:16:58 +0000</pubDate>
+				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=72</guid>
+
+					<description><![CDATA[2001]]></description>
+										<content:encoded><![CDATA[<p>2001...</p>
+<p><a href="/2023/11/bubbling-fish/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/bubbling-fish/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Puerto Vallarta Sunset</title>
+		<link>/2023/11/puerto-vallarta-sunset/</link>
+					<comments>/2023/11/puerto-vallarta-sunset/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:16:03 +0000</pubDate>
 				<category><![CDATA[Landscapes]]></category>
-		<guid isPermaLink="false">/?p=16</guid>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=70</guid>
 
-					<description><![CDATA[Watercolor, 2023]]></description>
-										<content:encoded><![CDATA[
-<p>Watercolor, 2023</p>
-]]></content:encoded>
+					<description><![CDATA[Oil, 2006]]></description>
+										<content:encoded><![CDATA[<p>Oil...</p>
+<p><a href="/2023/11/puerto-vallarta-sunset/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
-					<wfw:commentRss>/2023/11/red-mountain-sunset/feed/</wfw:commentRss>
+					<wfw:commentRss>/2023/11/puerto-vallarta-sunset/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Grackle</title>
-		<link>/2023/11/grackle/</link>
+		<title>Pumpkin and Corn Cob</title>
+		<link>/2023/11/pumpkin-and-corn-cob/</link>
+					<comments>/2023/11/pumpkin-and-corn-cob/#respond</comments>
 		
-		<dc:creator><![CDATA[gliebe]]></dc:creator>
-		<pubDate>Thu, 16 Nov 2023 23:19:12 +0000</pubDate>
-				<category><![CDATA[Creatures]]></category>
-		<guid isPermaLink="false">/?p=7</guid>
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:15:16 +0000</pubDate>
+				<category><![CDATA[Still Life]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=68</guid>
 
-					<description><![CDATA[Watercolor, 2023]]></description>
-										<content:encoded><![CDATA[
-<p>Watercolor, 2023</p>
-]]></content:encoded>
+					<description><![CDATA[Graphite, 2001]]></description>
+										<content:encoded><![CDATA[<p>Graphite...</p>
+<p><a href="/2023/11/pumpkin-and-corn-cob/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
+					<wfw:commentRss>/2023/11/pumpkin-and-corn-cob/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Waterfall with Rocks</title>
+		<link>/2023/11/waterfall-with-rocks/</link>
+					<comments>/2023/11/waterfall-with-rocks/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:14:35 +0000</pubDate>
+				<category><![CDATA[Digital]]></category>
+		<category><![CDATA[Landscapes]]></category>
+		<guid isPermaLink="false">/?p=66</guid>
+
+					<description><![CDATA[Digital painting, 2000]]></description>
+										<content:encoded><![CDATA[<p>Digital painting...</p>
+<p><a href="/2023/11/waterfall-with-rocks/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/waterfall-with-rocks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Self-portrait &#8211; Intense Eye</title>
+		<link>/2023/11/self-portrait-intense-eye/</link>
+					<comments>/2023/11/self-portrait-intense-eye/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 20:58:44 +0000</pubDate>
+				<category><![CDATA[Portrait]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=64</guid>
+
+					<description><![CDATA[Acrylic, 2001]]></description>
+										<content:encoded><![CDATA[<p>Acrylic...</p>
+<p><a href="/2023/11/self-portrait-intense-eye/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/self-portrait-intense-eye/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

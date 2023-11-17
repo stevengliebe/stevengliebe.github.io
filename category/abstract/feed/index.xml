@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Abstract &#8211; Steven Gliebe</title>
+	<atom:link href="/category/abstract/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Nov 2023 16:38:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Toothepaste, Tennis and Staples</title>
+		<link>/2023/11/toothepaste-tennis-and-staples/</link>
+					<comments>/2023/11/toothepaste-tennis-and-staples/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 16:38:17 +0000</pubDate>
+				<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=54</guid>
+
+					<description><![CDATA[High school art class, 2001]]></description>
+										<content:encoded><![CDATA[<p>High school art class...</p>
+<p><a href="/2023/11/toothepaste-tennis-and-staples/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/toothepaste-tennis-and-staples/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

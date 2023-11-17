@@ -12,7 +12,7 @@
 	<atom:link href="/category/creatures/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 Nov 2023 23:38:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Nov 2023 21:18:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,19 +20,59 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
+		<title>Psychadelic Fish</title>
+		<link>/2023/11/psychadelic-fish/</link>
+					<comments>/2023/11/psychadelic-fish/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:18:39 +0000</pubDate>
+				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Digital]]></category>
+		<guid isPermaLink="false">/?p=74</guid>
+
+					<description><![CDATA[Digitally styled, 2001]]></description>
+										<content:encoded><![CDATA[<p>Digitally styled...</p>
+<p><a href="/2023/11/psychadelic-fish/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/psychadelic-fish/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bubbling Fish</title>
+		<link>/2023/11/bubbling-fish/</link>
+					<comments>/2023/11/bubbling-fish/#respond</comments>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:16:58 +0000</pubDate>
+				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=72</guid>
+
+					<description><![CDATA[2001]]></description>
+										<content:encoded><![CDATA[<p>2001...</p>
+<p><a href="/2023/11/bubbling-fish/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+					<wfw:commentRss>/2023/11/bubbling-fish/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Macaw</title>
 		<link>/2023/11/macaw/</link>
 					<comments>/2023/11/macaw/#respond</comments>
 		
-		<dc:creator><![CDATA[gliebe]]></dc:creator>
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2023 23:34:13 +0000</pubDate>
 				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Traditional]]></category>
 		<guid isPermaLink="false">/?p=24</guid>
 
 					<description><![CDATA[Watercolor, 2023]]></description>
-										<content:encoded><![CDATA[
-<p>Watercolor, 2023</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[<p>Watercolor...</p>
+<p><a href="/2023/11/macaw/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
 					<wfw:commentRss>/2023/11/macaw/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -43,15 +83,15 @@
 		<title>Grackle</title>
 		<link>/2023/11/grackle/</link>
 		
-		<dc:creator><![CDATA[gliebe]]></dc:creator>
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
 		<pubDate>Thu, 16 Nov 2023 23:19:12 +0000</pubDate>
 				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Traditional]]></category>
 		<guid isPermaLink="false">/?p=7</guid>
 
 					<description><![CDATA[Watercolor, 2023]]></description>
-										<content:encoded><![CDATA[
-<p>Watercolor, 2023</p>
-]]></content:encoded>
+										<content:encoded><![CDATA[<p>Watercolor...</p>
+<p><a href="/2023/11/grackle/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
 		
 		
