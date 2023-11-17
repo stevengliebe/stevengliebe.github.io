@@ -12,7 +12,7 @@
 	<atom:link href="/category/creatures/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 17 Nov 2023 21:18:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Nov 2023 23:50:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
+		<title>Wood Duck</title>
+		<link>/2023/11/wood-duck/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 23:50:52 +0000</pubDate>
+				<category><![CDATA[Creatures]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<guid isPermaLink="false">/?p=150</guid>
+
+					<description><![CDATA[Acrylic, circa 2020]]></description>
+										<content:encoded><![CDATA[<p>Acrylic...</p>
+<p><a href="/2023/11/wood-duck/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Psychadelic Fish</title>
 		<link>/2023/11/psychadelic-fish/</link>
 		
