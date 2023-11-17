@@ -1,3 +1,0 @@
-# Intentionally blank based on advice from https://yoa.st/robots-txt
-User-Agent: *
-Disallow:
