@@ -2,9 +2,9 @@
 {
     "buttons": [
         {
-            "name": "Commit & Deploy",
-            "script": "git add .;git co -am 'Update static files'; git push origin main",
-            "description": "Update live after generating"
+            "name": "Update Live",
+            "script": "git pull origin main; git add .;git co -am 'Update static files'; git push origin main",
+            "description": "Pull, commit, push"
         },
         {
             "name": "Deploy",
