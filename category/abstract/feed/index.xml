@@ -12,7 +12,7 @@
 	<atom:link href="/category/abstract/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 17 Nov 2023 23:52:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Nov 2023 13:22:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
+		<title>Liquid Color</title>
+		<link>/2023/11/liquid-color/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Wed, 22 Nov 2023 03:49:50 +0000</pubDate>
+				<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<guid isPermaLink="false">/?p=256</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Very 90&#8217;s</title>
 		<link>/2023/11/very-90s/</link>
 		
@@ -27,28 +45,12 @@
 		<pubDate>Fri, 17 Nov 2023 23:52:12 +0000</pubDate>
 				<category><![CDATA[Abstract]]></category>
 		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[acrylic]]></category>
 		<guid isPermaLink="false">/?p=154</guid>
 
-					<description><![CDATA[Acrylic, 2022]]></description>
-										<content:encoded><![CDATA[<p>Acrylic...</p>
-<p><a href="/2023/11/very-90s/" rel="nofollow">Source</a></p>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Toothepaste, Tennis and Staples</title>
-		<link>/2023/11/toothepaste-tennis-and-staples/</link>
-		
-		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
-		<pubDate>Fri, 17 Nov 2023 16:38:17 +0000</pubDate>
-				<category><![CDATA[Abstract]]></category>
-		<category><![CDATA[Traditional]]></category>
-		<guid isPermaLink="false">/?p=54</guid>
-
-					<description><![CDATA[High school art class, 2001]]></description>
-										<content:encoded><![CDATA[<p>High school art class...</p>
-<p><a href="/2023/11/toothepaste-tennis-and-staples/" rel="nofollow">Source</a></p>]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		

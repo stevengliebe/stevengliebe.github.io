@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pencil &#8211; Steven Gliebe</title>
+	<atom:link href="/tag/pencil/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Nov 2023 02:25:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Pumpkin and Corn Cob</title>
+		<link>/2023/11/pumpkin-and-corn-cob/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 21:15:16 +0000</pubDate>
+				<category><![CDATA[Still Life]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2001]]></category>
+		<category><![CDATA[pencil]]></category>
+		<guid isPermaLink="false">/?p=68</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

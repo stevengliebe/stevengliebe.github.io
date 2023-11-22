@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2022 &#8211; Steven Gliebe</title>
+	<atom:link href="/tag/2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 22 Nov 2023 13:22:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Hills and Beach</title>
+		<link>/2023/11/hills-and-beach/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Wed, 22 Nov 2023 04:16:01 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<guid isPermaLink="false">/?p=260</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Liquid Color</title>
+		<link>/2023/11/liquid-color/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Wed, 22 Nov 2023 03:49:50 +0000</pubDate>
+				<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<guid isPermaLink="false">/?p=256</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Towers at Sea</title>
+		<link>/2023/11/towers-at-sea/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 23:53:22 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<guid isPermaLink="false">/?p=158</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Very 90&#8217;s</title>
+		<link>/2023/11/very-90s/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Fri, 17 Nov 2023 23:52:12 +0000</pubDate>
+				<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2022]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<guid isPermaLink="false">/?p=154</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

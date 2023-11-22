@@ -12,7 +12,7 @@
 	<atom:link href="/category/still-life/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 17 Nov 2023 21:15:26 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Nov 2023 02:28:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 	<item>
+		<title>Pomegranate and Avocado</title>
+		<link>/2023/11/pomegranate-and-avocado/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Sun, 19 Nov 2023 02:28:48 +0000</pubDate>
+				<category><![CDATA[Still Life]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<category><![CDATA[circa 2020]]></category>
+		<guid isPermaLink="false">/?p=229</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Pumpkin and Corn Cob</title>
 		<link>/2023/11/pumpkin-and-corn-cob/</link>
 		
@@ -27,11 +45,12 @@
 		<pubDate>Fri, 17 Nov 2023 21:15:16 +0000</pubDate>
 				<category><![CDATA[Still Life]]></category>
 		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2001]]></category>
+		<category><![CDATA[pencil]]></category>
 		<guid isPermaLink="false">/?p=68</guid>
 
-					<description><![CDATA[Graphite, 2001]]></description>
-										<content:encoded><![CDATA[<p>Graphite...</p>
-<p><a href="/2023/11/pumpkin-and-corn-cob/" rel="nofollow">Source</a></p>]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
 		
 		

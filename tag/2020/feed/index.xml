@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2020 &#8211; Steven Gliebe</title>
+	<atom:link href="/tag/2020/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 Nov 2023 02:43:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Sailing Along</title>
+		<link>/2023/11/sailing-along/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Sat, 18 Nov 2023 02:42:20 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[2020]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<guid isPermaLink="false">/?p=174</guid>
+
+					<description><![CDATA[Acrylic, circa 2020]]></description>
+										<content:encoded><![CDATA[<p>Acrylic...</p>
+<p><a href="/2023/11/sailing-along/" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
