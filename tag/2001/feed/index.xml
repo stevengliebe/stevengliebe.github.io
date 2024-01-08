@@ -12,13 +12,13 @@
 	<atom:link href="/tag/2001/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 19 Nov 2023 02:26:08 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Nov 2023 02:26:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>New York Perspective</title>
 		<link>/2023/11/new-york-perspective/</link>
@@ -30,23 +30,6 @@
 		<category><![CDATA[2001]]></category>
 		<category><![CDATA[acrylic]]></category>
 		<guid isPermaLink="false">/?p=76</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Bubbling Fish</title>
-		<link>/2023/11/bubbling-fish/</link>
-		
-		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
-		<pubDate>Fri, 17 Nov 2023 21:16:58 +0000</pubDate>
-				<category><![CDATA[Creatures]]></category>
-		<category><![CDATA[Traditional]]></category>
-		<category><![CDATA[2001]]></category>
-		<guid isPermaLink="false">/?p=72</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -73,25 +56,6 @@
 		
 			</item>
 		<item>
-		<title>Self-portrait as Karate Fighter</title>
-		<link>/2023/11/self-portrait-as-karate-fighter/</link>
-		
-		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
-		<pubDate>Fri, 17 Nov 2023 20:57:14 +0000</pubDate>
-				<category><![CDATA[Digital]]></category>
-		<category><![CDATA[Portrait]]></category>
-		<category><![CDATA[2001]]></category>
-		<category><![CDATA[photoshop]]></category>
-		<category><![CDATA[unfinished]]></category>
-		<guid isPermaLink="false">/?p=62</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Self-portrait as Sumo Wrestler</title>
 		<link>/2023/11/self-portrait-as-sumo-wrestler/</link>
 		
@@ -102,24 +66,6 @@
 		<category><![CDATA[2001]]></category>
 		<category><![CDATA[acrylic]]></category>
 		<guid isPermaLink="false">/?p=58</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Self-portrait &#8211; Shadow</title>
-		<link>/2023/11/self-portrait-shadow/</link>
-		
-		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
-		<pubDate>Fri, 17 Nov 2023 16:39:52 +0000</pubDate>
-				<category><![CDATA[Digital]]></category>
-		<category><![CDATA[Portrait]]></category>
-		<category><![CDATA[2001]]></category>
-		<category><![CDATA[photoshop]]></category>
-		<guid isPermaLink="false">/?p=56</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
