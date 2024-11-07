@@ -12,14 +12,32 @@
 	<atom:link href="/category/landscapes/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Jan 2024 19:21:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Nov 2024 14:30:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
+		<title>Antebellum</title>
+		<link>/2024/11/antebellum/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 14:30:13 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<category><![CDATA[circa 2020]]></category>
+		<guid isPermaLink="false">/?p=309</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Vivid Sunrise</title>
 		<link>/2023/11/vivid-sunrise/</link>
 		
@@ -174,24 +192,6 @@
 		<category><![CDATA[acrylic]]></category>
 		<category><![CDATA[circa 2020]]></category>
 		<guid isPermaLink="false">/?p=237</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Pacific Wave</title>
-		<link>/2023/11/pacific-wave/</link>
-		
-		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
-		<pubDate>Sun, 19 Nov 2023 02:30:18 +0000</pubDate>
-				<category><![CDATA[Landscapes]]></category>
-		<category><![CDATA[Traditional]]></category>
-		<category><![CDATA[acrylic]]></category>
-		<category><![CDATA[circa 2020]]></category>
-		<guid isPermaLink="false">/?p=235</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

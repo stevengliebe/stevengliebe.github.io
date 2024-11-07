@@ -12,14 +12,32 @@
 	<atom:link href="/category/traditional/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Jan 2024 19:23:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Nov 2024 14:30:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
+		<title>Antebellum</title>
+		<link>/2024/11/antebellum/</link>
+		
+		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 14:30:13 +0000</pubDate>
+				<category><![CDATA[Landscapes]]></category>
+		<category><![CDATA[Traditional]]></category>
+		<category><![CDATA[acrylic]]></category>
+		<category><![CDATA[circa 2020]]></category>
+		<guid isPermaLink="false">/?p=309</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>A Little Bird</title>
 		<link>/2023/11/a-little-bird/</link>
 		
@@ -174,24 +192,6 @@
 		<category><![CDATA[2022]]></category>
 		<category><![CDATA[acrylic]]></category>
 		<guid isPermaLink="false">/?p=260</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Liquid Color</title>
-		<link>/2023/11/liquid-color/</link>
-		
-		<dc:creator><![CDATA[Steven Gliebe]]></dc:creator>
-		<pubDate>Wed, 22 Nov 2023 03:49:50 +0000</pubDate>
-				<category><![CDATA[Abstract]]></category>
-		<category><![CDATA[Traditional]]></category>
-		<category><![CDATA[2022]]></category>
-		<category><![CDATA[acrylic]]></category>
-		<guid isPermaLink="false">/?p=256</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
